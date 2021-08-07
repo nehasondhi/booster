@@ -1,0 +1,12 @@
+body{
+    text-align: center;
+    background:linear-gradient(cyan,white,cyan);
+}
+h1{
+    font-family:cursive;
+}
+img{
+    border-radius:200px;
+    height:200px;
+    width:200px;
+}
